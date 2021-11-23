@@ -12,7 +12,7 @@ The output files will be found under a folder called "output" under the root of 
 ## Docker Usage
 ```
 docker build -t http-fetch .
-docker run -v /Users/daniel/http-fetch-output:/app/output http-fetch --metadata https://www.google.com```
+docker run -v /Users/daniel/http-fetch-output:/app/output http-fetch --metadata https://www.google.com
 ```
 
 In the above run case, you may replace the ```/Users/daniel/http-fetch-output``` portion with any path on your local filesystem.
