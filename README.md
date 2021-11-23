@@ -1,4 +1,4 @@
-#HTTP-FETCH
+# HTTP-FETCH
 This is a small tool designed to scrape one or more URLs given as command arguments.
 
 ## Usage
